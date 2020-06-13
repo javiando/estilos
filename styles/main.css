@@ -1,0 +1,105 @@
+/*
+Global
+*/
+
+* {
+  font-family: "Times New Roman", Times, serif;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+/*
+images
+*/
+figure {
+  display: inline;
+  padding: 26px;
+}
+
+/*
+Titulo 
+*/
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 42px;
+  background-color: red;
+  width: 666px;
+  height: 154px;
+  left: 366px;
+  top: 71px;
+  margin-bottom: 0cm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*
+1er parrafo
+*/
+.section1 {
+  background-color: blue;
+  width: 666px;
+  height: 350px;
+  left: 366px;
+  top: 225px;
+  margin-top: 0px;
+}
+
+.subtitle1 {
+  color: yellow;
+  text-align: left;
+  font-size: 28px;
+  padding-left: 21px;
+  margin: 0cm;
+  padding-top: 26px;
+}
+
+.paragraph1 {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+}
+
+/*
+2do parrafo
+*/
+.section2 {
+  background-color: orange;
+  width: 666px;
+  height: 350px;
+  left: 366px;
+  top: 225px;
+}
+
+.subtitle2 {
+  color: rgb(206, 59, 83);
+  text-align: left;
+  font-size: 28px;
+  padding-left: 21px;
+  margin-top: 0cm;
+  padding-top: 26px;
+}
+
+.paragraph2 {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+}
+
+/*
+footer
+*/
+.footer {
+  background-color: red;
+  color: white;
+  text-align: center;
+  width: 667px;
+  height: 66px;
+  left: 365px;
+  top: 866px;
+  margin-top: 0cm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
